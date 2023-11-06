@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://miro.medium.com/v2/resize:fit:720/1*WKS5uUEDzK4YdVRq7DOkbw.gif" alt="error"  width="1000px" height="500px"/>
 
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate frontend developer, coder.</h3>
