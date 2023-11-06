@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe src="https://gifer.com/embed/24Br" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/24Br" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate frontend developer, coder.</h3>
 
