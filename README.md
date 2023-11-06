@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Divya6265/Divya6265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.gifer.com/24Br.gif" alt="coding" />
+<iframe src="https://gifer.com/embed/24Br" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate frontend developer, coder.</h3>
 
