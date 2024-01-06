@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
+<!-- <video width="320" height="240" controls>
+<source src="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video><h3 align="left">Connect with me:</h3> -->
+<a href='https://moewalls.com/abstract/sunset-ocean-2-live-wallpaper/' target='_blank'><img src='https://moewalls.com/wp-content/uploads/2023/03/sunset-ocean-thumb-728x410.jpg' title='Sunset Ocean Live Wallpaper'></a>
 <p align="left">
 </p>
 
