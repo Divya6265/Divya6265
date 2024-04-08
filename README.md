@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate Web developer and Java coder from India</h3>
 <img src="1111946.jpg"/>
+<h1>
+  <a href="https://divya6265.github.io/My_Portfolio/" align="center" color="black">My Portfolio</a>
+</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/divya-inapakurthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="divya-inapakurthi" height="30" width="40" /></a>
