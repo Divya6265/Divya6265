@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Divya</h1>
-<h3 align="center">A passionate Web developer and Java coder from India</h3>
+<h3 align="center">A passionate MERN Stack Developer </h3>
 <img src="1111946.jpg"/>
 <h1>
   <a href="https://divya6265.github.io/My_Portfolio/" align="center" color="black">My Portfolio</a>
