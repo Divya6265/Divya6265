@@ -9,7 +9,7 @@ A Passionate MERN Stack Developer
 I’m actively building dynamic, user-focused applications using the MERN stack (MongoDB, Express.js, React, and Node.js). I thrive on transforming ideas into reality by crafting seamless full-stack solutions, from intuitive front-end designs to robust back-end systems. With hands-on experience in solving complex problems and delivering high-quality code, I’m always eager to learn, grow, and collaborate on innovative projects. Let’s connect and create something amazing together! 🚀
 
 * 🌍  I'm based in Vijayawada, AP
-* 🖥️  See my portfolio at [divya.inapakurthi](http://divya6265.github.io/Divya-Inapakurthi/)
+* 🖥️  See my portfolio at [divya.inapakurthi](https://divya-inapakurthi.vercel.app/)
 * ✉️  You can contact me at [divya.inapakurthi@gmail.com](mailto:divya.inapakurthi@gmail.com)
 * 🚀  I'm currently working on [WEB SOCKETS](http://tic-tac-toe-web-socket-frontend.vercel.app/)
 
